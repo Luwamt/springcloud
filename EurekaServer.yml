@@ -4,7 +4,7 @@ spring:
     name: EurekaServer
   cloud:
     config:
-      url: http://localhost:8018
+      url: http://localhost:8888
 
 
   zipkin:
