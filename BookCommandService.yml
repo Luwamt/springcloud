@@ -31,8 +31,7 @@ spring:
   main:
     web-application-type: reactive
     allow-circular-references: true
-server:
-  port: 8011
+
 
 eureka:
   client:
